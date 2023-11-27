@@ -1,0 +1,29 @@
+.Head {
+    background-color: grey;
+    text-align: center;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+.pad{
+    padding-bottom:0.5vh;
+}
+.Top
+{
+    padding-left: 20vh;
+    font-size: 55px;
+    font-family: serif;
+    font-weight: 100;
+}
+.Last{
+    padding-left: 20vh;
+}
+.Font{
+    font-family: serif;
+    font-size: 15px;
+    font-weight: 100;
+    padding-bottom: 15em;
+}
+.feed{
+    text-align: center;
+    padding-bottom: 10em;
+}
